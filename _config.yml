@@ -1,0 +1,28 @@
+name: eelive
+favicon: null
+layout_spectrum: 0.32921720505692065
+typography_spectrum: 0.8713902186136693
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.13557964353822172
+  lightness: 0.5473560816608369
+  saturation: 0.3917622168082744
+  rhythmicContrast: 0.8685892901849002
+purpose: []
